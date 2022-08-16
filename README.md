@@ -1,5 +1,9 @@
 # CRISP-DM-Methodology
 
+Link to Jupyter notebook below:
+
+https://github.com/philipMLdatascientist/CRISP-DM-Methodology/blob/main/Car%20Dealership.ipynb
+
 ## Business Understanding
 
 - The client's primary objective is to better understand what factors make a car more or less valuable to consumers in order to competively price cars.
