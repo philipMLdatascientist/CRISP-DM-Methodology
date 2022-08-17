@@ -40,7 +40,7 @@ https://github.com/philipMLdatascientist/CRISP-DM-Methodology/blob/main/Car%20De
 
 - I will use the 1.5 * min/max interquartile method to remove all outliers from year, price, and odomoter features. 
 
-- If year and odomoter features have zero, they will remain in the dataset. However, if price has zero, then I wil remove these samples from the dataset.
+- If year and odomoter features have zero, they will remain in the dataset. However, if price has zero, then I will remove these samples from the dataset.
 
 - There are 42 different values in the manufacturer categorical feature.
 
